@@ -2,6 +2,10 @@
 
 Este proyecto consiste en un análisis de datos de los jugadores de Newell's Old Boys utilizando información de su valor de mercado y estadísticas relacionadas. Los datos provienen de un archivo de fútbol argentino y se procesaron utilizando **Python** con las librerías **pandas** y **plotly**.
 
+## Nota sobre la base de datos
+
+Es importante mencionar que la base de datos utilizada contiene información incorrecta en algunos casos como nombres de jugadores. Sin embargo, he decidido avanzar en el análisis de todos modos, ya que el propósito principal de este proyecto es practicar y mejorar mis habilidades de análisis de datos. A pesar de las inconsistencias, el análisis realizado puede ser útil para ilustrar algunos aspectos interesantes relacionados con el club.
+
 ## Descripción del Análisis
 
 Se realizaron los siguientes análisis:
